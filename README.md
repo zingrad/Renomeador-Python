@@ -16,7 +16,7 @@ Este script Python renomeia arquivos em um diretório, removendo acentos, caract
 3. **Execute o Script**:
 
     ```bash
-    python renomear_arquivos.py
+    python rename.py
     ```
 
 4. **Personalize a Lista de Caracteres e Strings a Remover**: Na variável `caracteres_indesejados`, adicione as strings ou caracteres que deseja remover. Exemplo:
